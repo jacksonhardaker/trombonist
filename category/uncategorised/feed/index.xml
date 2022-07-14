@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorised &#8211; Jackson Hardaker</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>trombonist / composer / improvisor</description>
+	<lastBuildDate>Thu, 19 May 2016 18:47:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Welcome</title>
+		<link>./../../../2011/12/welcome/index.html</link>
+		<pubDate>Fri, 09 Dec 2011 23:07:59 +0000</pubDate>
+		<dc:creator><![CDATA[Jackson Hardaker]]></dc:creator>
+				<category><![CDATA[Uncategorised]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=176</guid>
+		<description><![CDATA[Welcome to my new website! After a long time of having a place holder website I now have a fully functional place to share my gigs, compositions, recordings and more. &#8211; Jackson Hardaker]]></description>
+		</item>
+	</channel>
+</rss>

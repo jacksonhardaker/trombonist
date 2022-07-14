@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Words &#8211; Jackson Hardaker</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>trombonist / composer / improvisor</description>
+	<lastBuildDate>Thu, 19 May 2016 18:47:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Solo Trombone: The techniques and musical concepts employed</title>
+		<link>./../../../2011/12/solo-trombone-the-techniques-and-musical-concepts-employed/index.html</link>
+		<comments>./../../../2011/12/solo-trombone-the-techniques-and-musical-concepts-employed/index.html#respond</comments>
+		<pubDate>Sun, 18 Dec 2011 01:43:04 +0000</pubDate>
+		<dc:creator><![CDATA[Jackson Hardaker]]></dc:creator>
+				<category><![CDATA[Research]]></category>
+		<category><![CDATA[Words]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=310</guid>
+		<description><![CDATA[&#160; If you&#8217;re having trouble viewing the embedded document, please click the link below. Solo Trombone: The techniques and musical concepts employed]]></description>
+		<wfw:commentRss>./../../../2011/12/solo-trombone-the-techniques-and-musical-concepts-employed/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

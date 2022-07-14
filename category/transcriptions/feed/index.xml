@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Transcriptions &#8211; Jackson Hardaker</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>trombonist / composer / improvisor</description>
+	<lastBuildDate>Thu, 19 May 2016 18:47:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Round Midnight as played by Richie Beirach</title>
+		<link>./../../../2015/02/round-midnight-as-played-by-richie-beirach/index.html</link>
+		<comments>./../../../2015/02/round-midnight-as-played-by-richie-beirach/index.html#comments</comments>
+		<pubDate>Thu, 26 Feb 2015 09:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[Jackson Hardaker]]></dc:creator>
+				<category><![CDATA[Transcriptions]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=717</guid>
+		<description><![CDATA[A few years ago, I decided to transcribe this track in order to find out what Richie Beirach was doing with the harmony of Round Midnight. I find Monk&#8217;s tunes to be highly robust and adaptable, and it was fascinating to hear a take on one of his most frequently played tunes which played hard...  <a class="excerpt-read-more" href="./../../../2015/02/round-midnight-as-played-by-richie-beirach/index.html" title="ReadRound Midnight as played by Richie Beirach">Read more &#187;</a>]]></description>
+		<wfw:commentRss>./../../../2015/02/round-midnight-as-played-by-richie-beirach/feed/index.html</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+		</item>
+		<item>
+		<title>In A Sentimental Mood as played by Hank Jones</title>
+		<link>./../../../2015/02/in-a-sentimental-mood-as-played-by-hank-jones/index.html</link>
+		<comments>./../../../2015/02/in-a-sentimental-mood-as-played-by-hank-jones/index.html#comments</comments>
+		<pubDate>Fri, 20 Feb 2015 20:24:14 +0000</pubDate>
+		<dc:creator><![CDATA[Jackson Hardaker]]></dc:creator>
+				<category><![CDATA[Transcriptions]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=680</guid>
+		<description><![CDATA[Hank Jones is one of my favourite pianists to study and transcribe. He has such mastery over a vast array of harmonic language, that you can find fantastic examples of so many different sounds in his playing. His performance of In A Sentimental Mood (from the album: Solo 1976 A Tribute to Duke Ellington) exemplifies...  <a class="excerpt-read-more" href="./../../../2015/02/in-a-sentimental-mood-as-played-by-hank-jones/index.html" title="ReadIn A Sentimental Mood as played by Hank Jones">Read more &#187;</a>]]></description>
+		<wfw:commentRss>./../../../2015/02/in-a-sentimental-mood-as-played-by-hank-jones/feed/index.html</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+	</channel>
+</rss>

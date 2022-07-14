@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Composition &#8211; Jackson Hardaker</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>trombonist / composer / improvisor</description>
+	<lastBuildDate>Thu, 19 May 2016 18:47:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Siagonology</title>
+		<link>./../../../2011/12/siagonology/index.html</link>
+		<comments>./../../../2011/12/siagonology/index.html#respond</comments>
+		<pubDate>Fri, 09 Dec 2011 22:56:30 +0000</pubDate>
+		<dc:creator><![CDATA[Jackson Hardaker]]></dc:creator>
+				<category><![CDATA[Composition]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=164</guid>
+		<description><![CDATA[Click the image below for the full pdf copy.]]></description>
+		<wfw:commentRss>./../../../2011/12/siagonology/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>(2 Boris) + 1</title>
+		<link>./../../../2011/12/2-boris-1/index.html</link>
+		<comments>./../../../2011/12/2-boris-1/index.html#respond</comments>
+		<pubDate>Fri, 09 Dec 2011 22:55:44 +0000</pubDate>
+		<dc:creator><![CDATA[Jackson Hardaker]]></dc:creator>
+				<category><![CDATA[Composition]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=162</guid>
+		<description><![CDATA[Click the image below for the full pdf copy.]]></description>
+		<wfw:commentRss>./../../../2011/12/2-boris-1/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Two-Handed Waltz</title>
+		<link>./../../../2011/12/two-handed-waltz/index.html</link>
+		<comments>./../../../2011/12/two-handed-waltz/index.html#respond</comments>
+		<pubDate>Fri, 09 Dec 2011 22:54:46 +0000</pubDate>
+		<dc:creator><![CDATA[Jackson Hardaker]]></dc:creator>
+				<category><![CDATA[Composition]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=160</guid>
+		<description><![CDATA[Click the image below for the full pdf copy.]]></description>
+		<wfw:commentRss>./../../../2011/12/two-handed-waltz/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>55%</title>
+		<link>./../../../2011/12/55percent/index.html</link>
+		<comments>./../../../2011/12/55percent/index.html#respond</comments>
+		<pubDate>Fri, 09 Dec 2011 22:53:44 +0000</pubDate>
+		<dc:creator><![CDATA[Jackson Hardaker]]></dc:creator>
+				<category><![CDATA[Composition]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=158</guid>
+		<description><![CDATA[Click the image below for the full pdf copy.]]></description>
+		<wfw:commentRss>./../../../2011/12/55percent/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Deep</title>
+		<link>./../../../2011/12/the-deep/index.html</link>
+		<comments>./../../../2011/12/the-deep/index.html#respond</comments>
+		<pubDate>Fri, 09 Dec 2011 22:52:17 +0000</pubDate>
+		<dc:creator><![CDATA[Jackson Hardaker]]></dc:creator>
+				<category><![CDATA[Composition]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=156</guid>
+		<description><![CDATA[Click the image below for the full pdf copy.]]></description>
+		<wfw:commentRss>./../../../2011/12/the-deep/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Watering can</title>
+		<link>./../../../2011/10/wateringcan/index.html</link>
+		<comments>./../../../2011/10/wateringcan/index.html#respond</comments>
+		<pubDate>Thu, 13 Oct 2011 00:36:16 +0000</pubDate>
+		<dc:creator><![CDATA[Jackson Hardaker]]></dc:creator>
+				<category><![CDATA[Composition]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=19</guid>
+		<description><![CDATA[Click the image below for the full pdf copy.]]></description>
+		<wfw:commentRss>./../../../2011/10/wateringcan/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
