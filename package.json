@@ -1,0 +1,8 @@
+{
+  "name": "trombonist",
+  "version": "0.0.0",
+  "devDependencies": {
+    "wrangler": "2.0.19"
+  },
+  "private": true
+}
