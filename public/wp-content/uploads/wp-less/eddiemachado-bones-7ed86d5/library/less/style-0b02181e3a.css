@@ -948,11 +948,14 @@ h5,
 06. HEADER STYLES
 *********************/
 .header {
-  /*background-image: url(./../../../../2015/02/IMG_2127_edit_300-cropped.jpg);*/
-  /*background-image: url(./../../../../2015/04/Hardaker-WateringCan-Cover-HR-banner.jpg);*/
-  background-image: url(./../../../../2011/12/IMG_7804_edit_small.jpg);
+  background-image: url(./../../../../2011/12/IMG_7804_edit_small-480w.jpg);
   background-size: cover;
   background-position: center center;
+}
+@media only screen and (min-width: 480px) {
+  .header {
+    background-image: url(./../../../../2011/12/IMG_7804_edit_small.jpg);
+  }
 }
 .header #inner-header {
   padding: 100px 0 60px 0;
